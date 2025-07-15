@@ -34,7 +34,7 @@ Welcome! This portfolio showcases hands-on projects I've built using **Azure AI 
 
 ## 🧠 About Me
 
-I've worked across software engineering, project delivery, and Microsoft 365 solutions. My passion lies in technology and building impactful AI solutions.
+I've 20+ years of experience across software engineering, Microsoft 365 solutions, and project delivery. My passion lies in technology and building impactful AI solutions.
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/baljindersingh)
 
