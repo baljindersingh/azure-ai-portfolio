@@ -20,7 +20,7 @@ Welcome! This portfolio showcases hands-on projects I've built using **Azure AI 
 - Azure Cognitive Search
 - Prompt Flow
 - REST APIs (Azure + Microsoft Graph)
-- Python, C#, LangChain (optional)
+- Python
 
 ---
 
